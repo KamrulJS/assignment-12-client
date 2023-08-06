@@ -5,6 +5,7 @@ import img2 from '../../../../assets/XJDYDWE.jpeg'
 import img3 from '../../../../assets/learning-e1626147970198.jpg'
 
 const Programs = () => {
+    
     return (
         <div className='text-center w-11/12 mx-auto mt-28'>
             <h1 className='section-title'>Our Program</h1>

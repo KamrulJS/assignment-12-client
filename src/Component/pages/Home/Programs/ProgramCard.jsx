@@ -1,7 +1,8 @@
 import React from 'react';
 
 
-const ProgramCard = ({img,subtitle}) => {
+const ProgramCard = ({ img, subtitle }) => {
+    
     return (
         <div className='relative my-4 '>
             <div className='rounded-2xl'>
