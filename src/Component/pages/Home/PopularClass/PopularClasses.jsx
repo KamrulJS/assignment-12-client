@@ -10,6 +10,8 @@ const PopularClasses = () => {
     return res.json();
   });
   const sliceData = popularData.slice(0, 6);
+
+  
   return (
     <div className="text-center w-11/12 mx-auto mt-28">
       <h1 className="section-title">Popular Classes</h1>
